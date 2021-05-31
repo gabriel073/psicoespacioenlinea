@@ -1,0 +1,84 @@
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        background-color: rgb(221, 210, 210);
+    }
+    
+    .contMenu {
+        width: 1000px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    .nav-link:hover {
+        background-color: rgb(186, 186, 235);
+    }
+    
+    .terapias {
+        width: 500px;
+        margin-bottom: 25px;
+        margin-left: 20px;
+        border: 2px solid black;
+    }
+    
+    .logo {
+        width: 50px;
+    }
+    
+    .imgServicios {
+        width: 500px;
+    }
+    
+    hr {
+        height: 2px;
+        width: 98%;
+        margin: auto;
+        margin-bottom: 25px;
+        background-color: rgb(131, 15, 240);
+    }
+    
+    h2 {
+        margin-left: 15px;
+    }
+    
+    .seccionServicios,
+    .seccionNosotras {
+        margin-bottom: 70px;
+    }
+    
+    .containerServicios {
+        border: 2px solid black;
+        width: auto;
+        height: 500px;
+    }
+    /* 
+    .containerForm {
+      border: 2px solid black; 
+    }
+    */
+    
+    .imgForm {
+        /* border: 2px solid black; */
+        width: auto;
+        height: 350px;
+        margin: auto;
+    }
+    
+    .form {
+        /* border: 2px solid black; */
+        margin: auto;
+    }
+    
+    footer {
+        background-color: rgb(168, 149, 149);
+        padding: 50px;
+    }
+    
+    footer a {
+        color: rgba(245, 233, 233, 0.911);
+    }
