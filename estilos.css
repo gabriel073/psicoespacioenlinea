@@ -19,6 +19,14 @@
         background-color: rgb(186, 186, 235);
     }
     
+    .nav_footer:hover {
+        text-decoration: none;
+    }
+    
+    .nav_footer {
+        margin-bottom: 10px;
+    }
+    
     .terapias {
         width: 500px;
         margin-bottom: 25px;
@@ -81,4 +89,111 @@
     
     footer a {
         color: rgba(245, 233, 233, 0.911);
+    }
+    
+    .email {
+        color: rgba(245, 233, 233, 0.911);
+    }
+    
+    .emailtitulo {
+        color: rgba(245, 233, 233, 0.911);
+        margin-top: 10px;
+    }
+    
+    .whats {
+        color: blue;
+        margin-left: 190px;
+    }
+    
+    .tel {
+        color: blue;
+        margin-left: 160px;
+    }
+    
+    .link_evangelina {
+        text-decoration-line: none;
+        text-decoration: none;
+        height: 20px;
+    }
+    
+    .link_evangelina:hover {
+        text-decoration-line: none;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    
+    .contactos {
+        margin-bottom: 10px;
+    }
+    
+    .imgredes {
+        width: 45px;
+        margin-left: 10px;
+    }
+    
+    .imgface {
+        width: 40px;
+        margin-top: 3px;
+        margin-left: 10px;
+    }
+    
+    .tredes {
+        color: rgba(245, 233, 233, 0.911);
+        margin-left: 15px;
+    }
+    
+    .img_modalidades {
+        border-radius: 50%;
+        height: 240px;
+    }
+    
+    .container-imgterapia {
+        width: 65px;
+    }
+    
+    .iconterapia {
+        width: 60px;
+    }
+    
+    .iconbenef {
+        width: 60px;
+    }
+    
+    .imgtestim {
+        height: 500px;
+    }
+    
+    .imgForm {
+        position: relative;
+        margin-top: 10px;
+        height: 500px;
+    }
+    
+    .p-testim {
+        position: absolute;
+        top: 35px;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .p-testim2 {
+        position: absolute;
+        top: 300px;
+        left: 150px;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .p-testim3 {
+        position: absolute;
+        top: 400px;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .p-testim4 {
+        position: absolute;
+        top: 250px;
+        font-size: 45px;
+        color: white;
     }
